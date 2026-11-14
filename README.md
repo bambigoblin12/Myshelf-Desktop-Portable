@@ -204,4 +204,4 @@ This repository serves as the official landing page for MyShelf Desktop Portable
 **Get the most recent version of MyShelf Desktop Portable today!**
 
 ---
-**Last updated:** 2026-11-13 21:14:27 UTC
+**Last updated:** 2026-11-14 01:59:51 UTC
